@@ -72,7 +72,7 @@ def download_image(image_prompt, output_folder):
 # Folder tempat menyimpan gambar
 output_folder = os.path.expanduser("~/storage/downloads/")
 
-#input awal
+# input awal
 input_main = input("Masukkan image_prompt (atau ketik 'exit' untuk keluar): ")
 while True:
     # Input image_prompt
