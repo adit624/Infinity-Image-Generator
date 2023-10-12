@@ -17,6 +17,8 @@ how to install in termux:
 
 *git clone https://github.com/adit624/Infinity-Image-Generator*
 
+*cd Infinity-Image-Generator*
+
 *python3 imgenerator.py*
 
 -----------------------------------------
