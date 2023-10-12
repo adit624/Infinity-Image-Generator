@@ -1,13 +1,13 @@
 import os
 import random
 import time
-#mengecek pibrary requests
+# mengecek library requests
 try:
     import requests
 except ImportError:
     os.system("pip install requests")
     import requests
-#mengecek library fake_useragent
+# mengecek library fake_useragent
 try:
     from fake_useragent import UserAgent
 except ImportError:
