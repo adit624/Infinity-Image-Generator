@@ -25,9 +25,8 @@ how to install in termux:
 
 *selesai*
 
-*to stop generating images *ctrl + z"*
-
-*untuk menghentikan pembuatan gambar "ctrl + z"*
+- to stop generating images *ctrl + z"
+- untuk menghentikan pembuatan gambar "ctrl + z"
 
 note: gambar tersimpan di penyimpanan download
 
