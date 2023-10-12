@@ -25,9 +25,11 @@ how to install in termux:
 
 *selesai*
 
-to stop generating images *ctrl + z"
+*to stop generating images *ctrl + z"
 
-untuk menghentikan pembuatan gambar "ctrl + z"
+untuk menghentikan pembuatan gambar "ctrl + z"*
+
+note: gambar tersimpan di penyimpanan download
 
 attention: tools ini bisa membuat gambar yang sensitif atau nsfw jadi gunakan dengan bijak ya!
 
