@@ -3,14 +3,23 @@ Free infinity Image Generator in Termux, Android with ai / membuat gambar secara
 
 100% python language / 100% menggunakan bahasa pemrograman python!
 
+-----------------------------------------
+
 how to install in termux:
 
 *termux-setup-storage*
+
 *pkg update && pkg upgrade*
+
 *pkg install python*
+
 *pkg install git*
+
 *git clone https://github.com/adit624/Infinity-Image-Generator*
+
 *python3 imgenerator.py*
+
+-----------------------------------------
 
 *selesai*
 
